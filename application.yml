@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: cloud-fje
+    active: cloud-fjefeefe
 cloud:
   sample:
     msg: hello
