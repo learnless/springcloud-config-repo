@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: cloud-eee
+    active: cloud-fff
 cloud:
   sample:
     msg: hello
