@@ -1,5 +1,7 @@
 cloud:
   sample:
     msg: web-development
-	result: success2
+cloud:
+  sample:
+    result: web-development
 
