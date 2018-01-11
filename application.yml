@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active: cloud-aes
+    result: success
+cloud:
+  sample:
+    msg: hello
+
+ribbon:
+  eureka:
+    enabled: true
