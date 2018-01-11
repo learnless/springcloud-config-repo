@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: cloud-qq
+    active: cloud-fff
     result: success
 cloud:
   sample:
