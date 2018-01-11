@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: cloud2
+    active: cloud234343
 cloud:
   sample:
     msg: hello
