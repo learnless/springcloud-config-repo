@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: cloud-aes
+    active: cloud-qq
     result: success
 cloud:
   sample:
