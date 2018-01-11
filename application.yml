@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: cloud-cccc
+    active: cloud-ddd
 cloud:
   sample:
     msg: hello
